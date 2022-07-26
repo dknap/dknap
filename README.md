@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dawid Knap
+- 👀 I’m interested in programming, sports betting, music, winemaking and some crypto
+- 🌱 I’m currently learning Machine Learning with Python
+- 📫 You can reach me via www.eniakz.art or e-mail: knap.dawid@outlook.com
