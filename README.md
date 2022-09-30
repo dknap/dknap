@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dawid Knap
-- 👀 I’m a Junior IOS Developer, but I'm also interested in sports betting and jazz music.
+- 👀 I’m a Junior IOS Developer
 - 📫 You can reach me via www.eniakz.dev or e-mail: eniakz@icloud.com
